@@ -1,5 +1,7 @@
 ## Getting Started
 
+Clone the repo, cd into it, and ensure that you're using node `12.20.0` (recommend using nvm to manage node versions on your local machine)
+
 ```
 touch .env.local
 echo MESSARI_API_KEY=YOUR_API_KEY > .env.local
